@@ -70,7 +70,7 @@ ReactDOM.render(navbar, document.getElementById("menu"));*/
 
 /*import React from "react"
 import ReactDOM from "react-dom"
-
+*/
 const page = (
     <div>
         <img className="image" src="https://alvarotrigo.com/blog/assets/imgs/2022-02-22/road-to-react-best-book.jpeg"></img>

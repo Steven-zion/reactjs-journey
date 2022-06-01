@@ -8,13 +8,21 @@
 5. always use one parent element for all components!!! 
 6. PageOne is the parent component and header,footer,facts are the child components
 7. use className instead of class in styling
+
+
+
+
+COMPLETED MY 1ST STEP AND I HAVE THE BASICS 
+
+NEXT IS USING THE CREATE REACT APP COMMAND
+
  */
 
 
-/*
+
 import react from 'react';
 import reactDOM from 'react-dom';
-*/
+
 function Header() {
     return(
         <div>
