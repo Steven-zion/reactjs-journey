@@ -24,4 +24,4 @@
 
 *practice on some static pages which ill post later on github
 
-**NEXT IS USING THE CREATE REACT APP COMMAND
+**NEXT IS USING (npx create react app my-app-name)
