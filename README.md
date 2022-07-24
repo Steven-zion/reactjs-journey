@@ -1,10 +1,9 @@
 
 ### lessons
 
-*1. the hard way is the easy way
-*2. learn to think in 'react'
-*3. use className instead of class
-
+1. the hard way is the easy way
+2. learn to think in 'react'
+3. use className instead of class
 
 
  ### LESSONS
@@ -20,7 +19,7 @@
 
 
 
-### COMPLETED MY 1ST STEP AND I HAVE THE BASICS 
+#### COMPLETED MY 1ST STEP AND I HAVE THE BASICS 
 
 #### practice on some static pages which ill post later on github
 
