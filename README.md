@@ -19,8 +19,8 @@
 
 
 
-#### COMPLETED MY 1ST STEP AND I HAVE THE BASICS 
+ COMPLETED MY 1ST STEP AND I HAVE THE BASICS 
 
-#### practice on some static pages which ill post later on github
+practice on some static pages which ill post later on github
 
- #### NEXT IS USING (npx create react app my-app-name)
+ ##### NEXT IS USING (npx create react app my-app-name)
