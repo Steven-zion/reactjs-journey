@@ -6,7 +6,7 @@
 3. use className instead of class
 
 
- ### LESSONS
+#### LESSONS
  
 1. USE PASCAL CASE INSTEAD OF CAMELCASE
 2. WRAP FUNCTION IN PARENTHESES
